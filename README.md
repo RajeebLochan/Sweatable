@@ -147,9 +147,7 @@ We welcome contributions! Here's how you can help:
 - Some regional dialects may need fine-tuning
 - Some Mobile responsiveness can be improved
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -164,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajeeb-lochan/)
 - 🐦 [Twitter](https://x.com/rajeeb_thedev)
-- 📧 Contact: [rajeebl2003@gmail.com]
+- 📧 Contact: [mailto:rajeebl2003@gmail.com]
 
 Passionate about making AI accessible to everyone, regardless of their language preference. Building bridges between technology and cultural diversity.
 
